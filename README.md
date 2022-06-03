@@ -127,4 +127,5 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31qaembgtaivzxoiafg2rw7fuzh4&width=1000&unique=true)
 
 ![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-\
+
+![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/languages.svg#gh-dark-mode-only)
