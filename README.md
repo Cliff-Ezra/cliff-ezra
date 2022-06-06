@@ -17,7 +17,6 @@
 <p align="center">
   
  <img src="https://badges.pufler.dev/visits/cliff-ezra/cliff-ezra"/> 
- <img src="https://badges.pufler.dev/updated/cliff-ezra/cliff-ezra"/>
  <img src="https://badges.pufler.dev/repos/cliff-ezra"/>
  <img src="https://badges.pufler.dev/commits/monthly/cliff-ezra" />
   
