@@ -98,21 +98,21 @@
 </p>
 
 <h2 align="center">
-  My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50">
+<!--   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"> -->
 </h2>
 
-<img src="https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-<img src="https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+<!-- <img src="https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+<img src="https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/languages.svg#gh-dark-mode-only"> -->
 
-![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only) -->
+<!-- ![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
 
 
 
 
 
 <p align="center">
-  <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+<!--   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
 </p>
 
 <br>
@@ -138,12 +138,12 @@
 ![Spotify recently played](https://spotify-recently-played-readme.vercel.app/api?user=31qaembgtaivzxoiafg2rw7fuzh4&width=1000&unique=true)
 
 
-<img src="https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<!-- <img src="https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/languages.svg#gh-dark-mode-only" />
 <img src="https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg#gh-light-mode-only" />
-<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg#gh-light-mode-only" /> -->
   
 
-![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only) -->
 
-![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+<!-- ![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
