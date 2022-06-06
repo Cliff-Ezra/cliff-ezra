@@ -97,38 +97,36 @@
   
 </p>
 
+<br>
+<br />
+<br />
+
 <h2 align="center">
-<!--   My Contribution Graph <img src="https://media.giphy.com/media/xUA7aZeLE2e0P7Znz2/giphy.gif" width="50"> -->
+  My Git Hub Stats
 </h2>
-
-<!-- <img src="https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-<img src="https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/languages.svg#gh-dark-mode-only"> -->
-
-<!-- ![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/overview.svg#gh-dark-mode-only) -->
-<!-- ![](https://raw.githubusercontent.com/cliff-ezra/github-stats/master/generated/languages.svg#gh-dark-mode-only) -->
-
-
-
-
-
-<p align="center">
-<!--   <img src="https://github.com/ritik307/ritik307/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
-</p>
 
 <br>
 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=cliff-ezra&show_icons=true&theme=tokyonight&line_height=27">
-<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-ezra&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight"> -->
-</p>
+<table>
+  <tr>
+    <td>
+      <!--Stats-->
+      <img align="left" src="https://github-readme-stats.vercel.app/api?username=cliff-ezra&show_icons=true&count_private=true&theme=tokyonight"/>
+    </td>
+    <td>
+      <!--Languages -->
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=cliff-ezra&show_icons=true&locale=en&layout=compact&theme=tokyonight"/>
+    </td>
+  </tr>
+</table>
+
 
 <p align = "center">
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-ezra&langs_count=8&layout=compact&theme=tokyonight"/>
 </p>
 
-<p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=cliff-ezra&show_icons=true&locale=en&layout=compact&theme=tokyonight&line_height=0" />
-</p> 
+<br />
+<br />
 
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=cliff-ezra&theme=redical">
