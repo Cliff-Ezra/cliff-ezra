@@ -119,7 +119,11 @@
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=cliff-ezra&show_icons=true&theme=tokyonight&line_height=27">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-ezra&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight">
+<!--   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-ezra&hide=html,css,java,shaderlab,kotlin,hlsl&theme=tokyonight"> -->
+</p>
+
+<p align = "center">
+  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cliff-ezra&langs_count=8&layout=compact&theme=tokyonight"/>
 </p>
 
 <p align = "center">
