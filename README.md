@@ -14,15 +14,6 @@
 
 <br /><br />
 
-<p align="center">
-  
- <img src="https://badges.pufler.dev/visits/cliff-ezra/cliff-ezra"/> 
- <img src="https://badges.pufler.dev/repos/cliff-ezra"/>
- <img src="https://badges.pufler.dev/commits/monthly/cliff-ezra" />
-  
- </p>
- 
- <p align="center">
   
   I am a 3rd year student pursuing a Bachelor's degree in Computer Science 🎓 from the University of Nairobi 🏛. I'm a passionate learner who's always willing       to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems✨. I am currently working on my web development skills with the MERN stck in addition to getting into mobile app development with Flutter and React Native.
   
